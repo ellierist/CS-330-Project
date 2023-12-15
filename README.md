@@ -24,7 +24,7 @@ How has your approach to developing code evolved throughout the milestones, whic
 Each week we needed to complete another step of our project. Each week I had to readjust my code to ensure I was meeting that weeks assignment requirements. A few times I felt like my code was not efficient and so I had to go back and restart during some weeks, but overall the project benefited from these revisions.
 
 How can computer science help me in reaching my goals?
-Computer science is crucial in helping me reach my goal of becoming a software engineer.
+Computer science is crucial in helping me reach my goal of becoming a software engineer. Computer science teaches the skills and theories needed as a software engineer. 
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 Computational graphics and visualizations allowed me to learn a new more about a topic that I had no previous knowledge on. The knowledge learned helped me refine C++ skills while also teaching me brand new topics. These skills will help me with my future educatation as this course helped me stay organized and on top of learning these new skills. Learning new skills quickly is important for education. 
